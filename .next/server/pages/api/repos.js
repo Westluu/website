@@ -1,0 +1,36 @@
+"use strict";
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(() => {
+var exports = {};
+exports.id = "pages/api/repos";
+exports.ids = ["pages/api/repos"];
+exports.modules = {
+
+/***/ "(api)/./pages/api/repos.jsx":
+/*!*****************************!*\
+  !*** ./pages/api/repos.jsx ***!
+  \*****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (async (req, res)=>{\n    const data = [\n        {\n            id: 1,\n            image: \"/assets/techs/cci.png\",\n            name: \"Intern (Software Developer)\",\n            location: \"California Cybersecurity Institute\",\n            description: \"• Revamped legacy code of previous discord bots into modern, maintainable, and robust code for future development.\" + \"\" + \"• Fixed internal structure and UI/UX functionality which allowed users to understand the bot intuitively and drastically. Reducing the number of errors a user can make.\" + \"\\n\" + \"• Where the bot verified over 200+ students in the competition and handled over 100+ support ticket sent by the student\" + \"\\n\" + \"• Utilized Microsoft Planner for effective communication on tasks assigned, presented progress in weekly meetings for\" + \"\\n\" + \"constructive feedback, and incorporated sprints to stay on schedule.\" + \"\\n\",\n            point1: \"• Revamped legacy code of previous discord bots into modern, maintainable, and robust code for future development.\",\n            point2: \"• Fixed internal structure and UI/UX functionality which allowed users to understand the bot intuitively and drastically. Reducing the number of errors a user can make.\" + \"\\n\",\n            point3: \"• Where the bot verified over 200+ students in the competition and handled over 100+ support ticket sent by the student\" + \"\\n\",\n            point4: \"• Utilized Microsoft Planner for effective communication on tasks assigned, presented progress in weekly meetings for constructive feedback, and incorporated sprints to stay on schedule.\" + \"\\n\",\n            link: \"https://devpost.com/software/singify\"\n        }\n    ];\n    res.status(200).json(data);\n});\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwaSkvLi9wYWdlcy9hcGkvcmVwb3MuanN4LmpzIiwibWFwcGluZ3MiOiI7Ozs7QUFBQSxpRUFBZSxPQUFPQSxHQUFHLEVBQUVDLEdBQUcsR0FBSztJQUMvQixNQUFNQyxJQUFJLEdBQUc7UUFDWDtZQUNFQyxFQUFFLEVBQUUsQ0FBQztZQUNMQyxLQUFLLEVBQUUsdUJBQXVCO1lBQzlCQyxJQUFJLEVBQUUsNkJBQTZCO1lBQ25DQyxRQUFRLEVBQUUsb0NBQW9DO1lBQzlDQyxXQUFXLEVBQUUsb0hBQW9ILEdBQUcsRUFBRSxHQUN0SSwwS0FBMEssR0FBRyxJQUFJLEdBQ2pMLHlIQUF5SCxHQUFHLElBQUksR0FDaEksdUhBQXVILEdBQUcsSUFBSSxHQUM5SCxzRUFBc0UsR0FBRyxJQUFJO1lBRTdFQyxNQUFNLEVBQUUsb0hBQW9IO1lBQzVIQyxNQUFNLEVBQUUsMEtBQTBLLEdBQUcsSUFBSTtZQUN6TEMsTUFBTSxFQUFFLHlIQUF5SCxHQUFHLElBQUk7WUFDeElDLE1BQU0sRUFBRSw0TEFBNEwsR0FBRyxJQUFJO1lBQzNNQyxJQUFJLEVBQUUsc0NBQXNDO1NBQzdDO0tBQ0Y7SUFDRFgsR0FBRyxDQUFDWSxNQUFNLENBQUMsR0FBRyxDQUFDLENBQUNDLElBQUksQ0FBQ1osSUFBSSxDQUFDLENBQUM7QUFDN0IsQ0FBQyxFQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vcmVhY3QvLi9wYWdlcy9hcGkvcmVwb3MuanN4PzFhMjIiXSwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGRlZmF1bHQgYXN5bmMgKHJlcSwgcmVzKSA9PiB7XHJcbiAgICBjb25zdCBkYXRhID0gW1xyXG4gICAgICB7XHJcbiAgICAgICAgaWQ6IDEsXHJcbiAgICAgICAgaW1hZ2U6IFwiL2Fzc2V0cy90ZWNocy9jY2kucG5nXCIsXHJcbiAgICAgICAgbmFtZTogXCJJbnRlcm4gKFNvZnR3YXJlIERldmVsb3BlcilcIixcclxuICAgICAgICBsb2NhdGlvbjogXCJDYWxpZm9ybmlhIEN5YmVyc2VjdXJpdHkgSW5zdGl0dXRlXCIsXHJcbiAgICAgICAgZGVzY3JpcHRpb246IFwi4oCiIFJldmFtcGVkIGxlZ2FjeSBjb2RlIG9mIHByZXZpb3VzIGRpc2NvcmQgYm90cyBpbnRvIG1vZGVybiwgbWFpbnRhaW5hYmxlLCBhbmQgcm9idXN0IGNvZGUgZm9yIGZ1dHVyZSBkZXZlbG9wbWVudC5cIiArIFwiXCIgK1xyXG4gICAgICAgIFwi4oCiIEZpeGVkIGludGVybmFsIHN0cnVjdHVyZSBhbmQgVUkvVVggZnVuY3Rpb25hbGl0eSB3aGljaCBhbGxvd2VkIHVzZXJzIHRvIHVuZGVyc3RhbmQgdGhlIGJvdCBpbnR1aXRpdmVseSBhbmQgZHJhc3RpY2FsbHkuIFJlZHVjaW5nIHRoZSBudW1iZXIgb2YgZXJyb3JzIGEgdXNlciBjYW4gbWFrZS5cIiArIFwiXFxuXCIgK1xyXG4gICAgICAgIFwi4oCiIFdoZXJlIHRoZSBib3QgdmVyaWZpZWQgb3ZlciAyMDArIHN0dWRlbnRzIGluIHRoZSBjb21wZXRpdGlvbiBhbmQgaGFuZGxlZCBvdmVyIDEwMCsgc3VwcG9ydCB0aWNrZXQgc2VudCBieSB0aGUgc3R1ZGVudFwiICsgXCJcXG5cIiArXHJcbiAgICAgICAgXCLigKIgVXRpbGl6ZWQgTWljcm9zb2Z0IFBsYW5uZXIgZm9yIGVmZmVjdGl2ZSBjb21tdW5pY2F0aW9uIG9uIHRhc2tzIGFzc2lnbmVkLCBwcmVzZW50ZWQgcHJvZ3Jlc3MgaW4gd2Vla2x5IG1lZXRpbmdzIGZvclwiICsgXCJcXG5cIiArXHJcbiAgICAgICAgXCJjb25zdHJ1Y3RpdmUgZmVlZGJhY2ssIGFuZCBpbmNvcnBvcmF0ZWQgc3ByaW50cyB0byBzdGF5IG9uIHNjaGVkdWxlLlwiICsgXCJcXG5cIixcclxuXHJcbiAgICAgICAgcG9pbnQxOiBcIuKAoiBSZXZhbXBlZCBsZWdhY3kgY29kZSBvZiBwcmV2aW91cyBkaXNjb3JkIGJvdHMgaW50byBtb2Rlcm4sIG1haW50YWluYWJsZSwgYW5kIHJvYnVzdCBjb2RlIGZvciBmdXR1cmUgZGV2ZWxvcG1lbnQuXCIsXHJcbiAgICAgICAgcG9pbnQyOiBcIuKAoiBGaXhlZCBpbnRlcm5hbCBzdHJ1Y3R1cmUgYW5kIFVJL1VYIGZ1bmN0aW9uYWxpdHkgd2hpY2ggYWxsb3dlZCB1c2VycyB0byB1bmRlcnN0YW5kIHRoZSBib3QgaW50dWl0aXZlbHkgYW5kIGRyYXN0aWNhbGx5LiBSZWR1Y2luZyB0aGUgbnVtYmVyIG9mIGVycm9ycyBhIHVzZXIgY2FuIG1ha2UuXCIgKyBcIlxcblwiLFxyXG4gICAgICAgIHBvaW50MzogXCLigKIgV2hlcmUgdGhlIGJvdCB2ZXJpZmllZCBvdmVyIDIwMCsgc3R1ZGVudHMgaW4gdGhlIGNvbXBldGl0aW9uIGFuZCBoYW5kbGVkIG92ZXIgMTAwKyBzdXBwb3J0IHRpY2tldCBzZW50IGJ5IHRoZSBzdHVkZW50XCIgKyBcIlxcblwiLFxyXG4gICAgICAgIHBvaW50NDogXCLigKIgVXRpbGl6ZWQgTWljcm9zb2Z0IFBsYW5uZXIgZm9yIGVmZmVjdGl2ZSBjb21tdW5pY2F0aW9uIG9uIHRhc2tzIGFzc2lnbmVkLCBwcmVzZW50ZWQgcHJvZ3Jlc3MgaW4gd2Vla2x5IG1lZXRpbmdzIGZvciBjb25zdHJ1Y3RpdmUgZmVlZGJhY2ssIGFuZCBpbmNvcnBvcmF0ZWQgc3ByaW50cyB0byBzdGF5IG9uIHNjaGVkdWxlLlwiICsgXCJcXG5cIixcclxuICAgICAgICBsaW5rOiBcImh0dHBzOi8vZGV2cG9zdC5jb20vc29mdHdhcmUvc2luZ2lmeVwiLFxyXG4gICAgICB9XHJcbiAgICBdO1xyXG4gICAgcmVzLnN0YXR1cygyMDApLmpzb24oZGF0YSk7XHJcbiAgfTtcclxuICAiXSwibmFtZXMiOlsicmVxIiwicmVzIiwiZGF0YSIsImlkIiwiaW1hZ2UiLCJuYW1lIiwibG9jYXRpb24iLCJkZXNjcmlwdGlvbiIsInBvaW50MSIsInBvaW50MiIsInBvaW50MyIsInBvaW50NCIsImxpbmsiLCJzdGF0dXMiLCJqc29uIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(api)/./pages/api/repos.jsx\n");
+
+/***/ })
+
+};
+;
+
+// load runtime
+var __webpack_require__ = require("../../webpack-api-runtime.js");
+__webpack_require__.C(exports);
+var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
+var __webpack_exports__ = (__webpack_exec__("(api)/./pages/api/repos.jsx"));
+module.exports = __webpack_exports__;
+
+})();
