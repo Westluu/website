@@ -11,7 +11,7 @@ const navItems = [
     { icon: 'fal fa-home', active: 'fa fa-home', label: 'Home', href: '/' },
     { icon: 'fal fa-compass', active: 'fa fa-compass', label: 'Projects', href: '/projects' },
     { icon: 'fal fa-phone', active: 'fa fa-phone', label: 'Contact', href: '/contact' },
-    { icon: 'fal fa-file', active: 'fa fa-file', label: 'Resume', target: "_blank", rel: "norefferer", href: 'https://drive.google.com/file/d/1v_6olT9s6_7RZWvQ9T5-FVP1dd2AlHSU/view' }
+    { icon: 'fal fa-file', active: 'fa fa-file', label: 'Resume', target: "_blank", rel: "norefferer", href: 'https://drive.google.com/file/d/1sXFEKUEJMuHNDMKNzEy2yQG6XBDnDDzE/view?usp=sharing' }
 ]
 
 import Link from 'next/link';
